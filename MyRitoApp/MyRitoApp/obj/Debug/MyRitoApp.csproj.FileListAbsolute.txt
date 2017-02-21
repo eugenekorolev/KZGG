@@ -1,0 +1,2 @@
+D:\KEE\rito\myrito\MyRitoApp\MyRitoApp\bin\Debug\MyRitoApp.exe.config
+D:\KEE\RitoEx\rito\myrito\MyRitoApp\MyRitoApp\bin\Debug\MyRitoApp.exe.config
